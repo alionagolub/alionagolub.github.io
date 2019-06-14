@@ -4891,7 +4891,7 @@ button.swiper-pagination-bullet {
 
 .bblock-1640 .bblock-block.bblock-block-c30747e {
     background-image: url("../images/bg1.jpeg");
-    background-position: top center;
+    background-position: 0 -100px;
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -5401,7 +5401,7 @@ body:not(.rtl) .bblock-1640 .bblock-block.bblock-block-237950c .bblock-icon-list
 
 @media (max-width: 1024px) {
     .bblock-1640 .bblock-block.bblock-block-c30747e {
-        background-position: -167px 0px
+        background-position: 0px 0px
     }
     .bblock-1640 .bblock-block.bblock-block-e09b184 > .bblock-block-populated {
         margin: 0px 0px 0px 0px;
@@ -5458,7 +5458,7 @@ body:not(.rtl) .bblock-1640 .bblock-block.bblock-block-237950c .bblock-icon-list
         min-height: inherit
     }
     .bblock-1640 .bblock-block.bblock-block-c30747e {
-        background-position: -170px 0px;
+        background-position: -80px 0px;
         padding: 0px 0px 0px 0px
     }
     .bblock-1640 .bblock-block.bblock-block-e09b184 > .bblock-block-populated {
